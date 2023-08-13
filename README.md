@@ -23,6 +23,7 @@ Amatör işlerimizdendir.
 ## Kurulum
 - Dosyaları hostinginize aktarın. 
 - sgpnl/inc/vt.php veritabanı bilgilerinizi kendinize göre güncelleyin.
+- fuar.sql dosyasını veritabanınıza aktarın.
 - sgpnl/register.php admin hesabı oluşturmanız için kullanabilirsiniz.
 - Demo giriş bilgileri demo : demo şeklindedir.
   
